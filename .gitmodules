@@ -1,0 +1,6 @@
+[submodule "vashisht-frontend"]
+	path = vashisht-frontend
+	url = git@github.com:MKMukeshkannan/vashisht-frontend.git
+[submodule "vashisht-backend"]
+	path = vashisht-backend
+	url = git@github.com:BharathSanjeeviT/vashisht-backend.git
