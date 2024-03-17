@@ -32,8 +32,9 @@
 
 ## About the project
 
-> **Our Mission**:
-> We're on a mission to simplify online shopping by leveraging intuitive technology that speaks your language, understands your preferences, and enhances your shopping environment.
+### Our Mission:
+
+We're on a mission to simplify online shopping by leveraging intuitive technology that speaks your language, understands your preferences, and enhances your shopping environment.
 
 ### Key Features:
 
