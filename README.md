@@ -129,8 +129,8 @@ yarn dev
 Run these following commands in the terminal to start the local server
 
 ```bash
-npm install
-npm start
+pip install -r requirements.txt
+python server.py
 ```
 
 # What's next ?
