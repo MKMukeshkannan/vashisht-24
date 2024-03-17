@@ -5,7 +5,7 @@
 
 ## Links
 
-[`Website link`](http://www.google.com) [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com)
+[`Website link`](https://vashisht-frontend.vercel.app/) [`Demo video link `](https://youtu.be/EzjqhdnrQ3k)
 
 - The Website Link will take the users to a fully functional deployment of our project with all the features up and running
 - The Demo video has a through explantion and a complete walkthrough of our project
