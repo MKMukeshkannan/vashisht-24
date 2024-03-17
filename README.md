@@ -28,7 +28,8 @@
 ## Problem statement
 
 > Multi-Lingual Conversational Assistance and Reality Augmentation (CARA) for E-Commerce with Gen-AI enhancements
-> To overcome the Complexities of E-Commerce with a Simple and Easy to use E-Commerce application by using Multi-Lingual Conversational Assistance and Reality Augmentation (CARA) to provide a unique and relaxed expirence which is further improved with Gen-AI.
+
+To overcome the Complexities of E-Commerce with a Simple and Easy to use E-Commerce application by using Multi-Lingual Conversational Assistance and Reality Augmentation (CARA) to provide a unique and relaxed expirence which is further improved with Gen-AI.
 
 ## About the project
 
