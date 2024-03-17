@@ -69,6 +69,17 @@ We're on a mission to simplify online shopping by leveraging intuitive technolog
 
 - ![flowchart](https://github.com/MKMukeshkannan/vashisht-24/blob/main/assets/Untitled.png)
 
+## Screenshots
+
+### Client's Interface
+<img width="1234" alt="client-interface" src="https://github.com/MKMukeshkannan/vashisht-24/assets/119940345/a9f669d6-b2f5-4c0f-a94b-d9ee9e7c385b">
+
+### Retailer's Interface
+<img width="1234" alt="retailer-interface" src="https://github.com/MKMukeshkannan/vashisht-24/assets/119940345/c527095e-804d-44ff-ae06-8d8f38e082de">
+
+### Working of AR
+![ar-workflow](https://github.com/MKMukeshkannan/vashisht-24/assets/119940345/b9fccaa4-2725-4fe5-9b64-b2159854766b)
+
 ## Techstacks used
 
 ### FRONTEND
