@@ -66,7 +66,7 @@ We're on a mission to simplify online shopping by leveraging intuitive technolog
 - The frontend communiates with Whisper with the help of a Next Serer that converts Base64 audio to Mp3 audio
 - Once the user validates the request the Flask Server handles this request and fetches the required data from the DB
 - Here's a flowchart of the workflow of our application
-- ![alt text](https://github.com/Sak1012/vashiht-24/tree/CocaCola/assets/image.jpg?raw=true)
+- ![alt text](https://github.com/Sak1012/vashiht-24/tree/CocaCola/assets/Untitled.png?raw=true)
 
 ## Techstacks used
 
