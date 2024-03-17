@@ -5,7 +5,8 @@
 
 ## Links
 
-[`Website link`](https://vashisht-frontend.vercel.app/) [`Demo video link `](#)
+
+[`Website link`](https://vashisht-frontend.vercel.app/) [`Demo video link `](https://youtu.be/EzjqhdnrQ3k)
 
 - The Website Link will take the users to a fully functional deployment of our project with all the features up and running
 - The Demo video has a through explantion and a complete walkthrough of our project
@@ -65,7 +66,8 @@ We're on a mission to simplify online shopping by leveraging intuitive technolog
 - The frontend communiates with Whisper with the help of a Next Serer that converts Base64 audio to Mp3 audio
 - Once the user validates the request the Flask Server handles this request and fetches the required data from the DB
 - Here's a flowchart of the workflow of our application
-  ![flowchart](https://github.com/Sak1012/vashisht-24/blob/CocaCola/assets/Untitled.png)
+
+- ![flowchart](https://github.com/MKMukeshkannan/vashisht-24/blob/main/assets/Untitled.png)
 
 ## Techstacks used
 
