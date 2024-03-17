@@ -35,7 +35,7 @@
 > **Our Mission**:
 > We're on a mission to simplify online shopping by leveraging intuitive technology that speaks your language, understands your preferences, and enhances your shopping environment.
 
-> **Key Features**:
+**Key Features**:
 
 > **Multi-lingual conversational assistance**: Our platform breaks language barriers by providing natural language understanding and generation capabilities in multiple languages. Whether you're browsing from Tokyo or Toronto, our AI-powered assistants ensure clear communication and personalized support.
 
