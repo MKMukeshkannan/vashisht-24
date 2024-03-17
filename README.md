@@ -68,7 +68,25 @@ We're on a mission to simplify online shopping by leveraging intuitive technolog
 
 ## Techstacks used
 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+# FRONTEND
+
+- NextJS -> framework
+- ZUSTAND -> global state management
+- ZOD -> validations
+- FRAMER MOTION and LOTTIE -> animations
+- TAILWINDCSS -> design
+- PLAYCANVAS -> AR Try On feature
+
+BACKEND
+
+- FLASK (Server)
+- OPEN-AI
+  - GPT-3.5-turbo (Querying prompt by user)
+  - WHISPHER-1.0 (Multilingual Audio to Text Transcription)
+  - LLAMA INDEX (Vectorizing the DataFrame)
+- PANDAS (Creating Dataframe)
+- SQLALCHEMY (SQL Connectivity)
+- POSTGRES (Database)
 
 ## How to run locally
 
