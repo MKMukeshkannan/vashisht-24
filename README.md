@@ -45,6 +45,8 @@ We're on a mission to simplify online shopping by leveraging intuitive technolog
 
 - **Gen-AI Enhancements**: Experience personalized shopping like never before. Our AI-driven platform learns from your interactions to provide tailored recommendations and assistance, ensuring every step of your shopping journey is effortless and enjoyable.
 
+- **Retailer Access**: Retailers have a special route that let's them update or manage their produxts more easily.
+
 ### Benefits:
 
 - **Simplicity**: Our user-friendly interface ensures a seamless shopping experience, making it easy for you to browse, discover, and purchase products hassle-free.
@@ -64,11 +66,11 @@ We're on a mission to simplify online shopping by leveraging intuitive technolog
 - The frontend communiates with Whisper with the help of a Next Serer that converts Base64 audio to Mp3 audio
 - Once the user validates the request the Flask Server handles this request and fetches the required data from the DB
 - Here's a flowchart of the workflow of our application
-- ![flowchart]()
+- ![alt text](https://github.com/Sak1012/vashiht-24/tree/CocaCola/assets/image.jpg?raw=true)
 
 ## Techstacks used
 
-# FRONTEND
+### FRONTEND
 
 - NextJS -> framework
 - ZUSTAND -> global state management
@@ -77,7 +79,7 @@ We're on a mission to simplify online shopping by leveraging intuitive technolog
 - TAILWINDCSS -> design
 - PLAYCANVAS -> AR Try On feature
 
-BACKEND
+### BACKEND
 
 - FLASK (Server)
 - OPEN-AI
@@ -90,18 +92,38 @@ BACKEND
 
 ## How to run locally
 
-explain detailed steps to run your project locally , example to run a react application
+To run this locally follow these steps:
 
-- step 1 : clone the repo
+- Step 1 : clone the frontend repo and backend repo seperately
+
+```bash
+
+git clone https://github.com/MKMukeshkannan/vashisht-frontend.git
+git clone https://github.com/BharathSanjeeviT/vashisht-backend.git
 
 ```
+
+### Frontend
+
+Run these following commands in the terminal to start the local server
+
+```bash
+yarn
+yarn dev
+```
+
+### Backend
+
+Run these following commands in the terminal to start the local server
+
+```bash
 npm install
 npm start
 ```
 
 # What's next ?
 
-tell the future plan that you have for the project , tell the updates that you would wish to bring
+We further Aim to develop this project with an improved native language support and an improved inventory management system for retailers.
 
 ## Declaration
 
