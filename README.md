@@ -36,8 +36,11 @@
 > We're on a mission to simplify online shopping by leveraging intuitive technology that speaks your language, understands your preferences, and enhances your shopping environment.
 
 > **Key Features**:
+
 > **Multi-lingual conversational assistance**: Our platform breaks language barriers by providing natural language understanding and generation capabilities in multiple languages. Whether you're browsing from Tokyo or Toronto, our AI-powered assistants ensure clear communication and personalized support.
+
 > **Reality Augmentation for E-Commerce**: Immerse yourself in a virtual shopping environment with our reality augmentation features. Visualize products in your surroundings through augmented reality, enabling you to assess their fit, style, and compatibility with your space before making a purchase.
+
 > **Gen-AI Enhancements**: Experience personalized shopping like never before. Our AI-driven platform learns from your interactions to provide tailored recommendations and assistance, ensuring every step of your shopping journey is effortless and enjoyable.
 
 > **Benefits**:
