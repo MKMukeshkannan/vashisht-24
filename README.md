@@ -91,12 +91,12 @@ We're on a mission to simplify online shopping by leveraging intuitive technolog
 
 ## How to run locally
 
+
 To run this locally follow these steps:
 
 - Step 1 : clone the frontend repo and backend repo seperately
 
 ```bash
-
 git clone https://github.com/MKMukeshkannan/vashisht-frontend.git
 git clone https://github.com/BharathSanjeeviT/vashisht-backend.git
 
